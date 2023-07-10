@@ -30,10 +30,10 @@
   "license": "MIT",
   "devDependencies": {
     "@capacitor-community/http": "^1.4.1",
-    "@capacitor/cli": "^4.8.1",
-    "@capacitor/device": "^4.1.0",
-    "@capacitor/dialog": "^4.1.0",
-    "@capacitor/filesystem": "^4.1.5",
+    "@capacitor/cli": "^5.1.1",
+    "@capacitor/device": "^5.0.5",
+    "@capacitor/dialog": "^5.0.5",
+    "@capacitor/filesystem": "^5.0.5",
     "@commitlint/cli": "^11.0.0",
     "@commitlint/config-conventional": "^11.0.0",
     "@rollup/plugin-node-resolve": "^11.1.0",
@@ -70,10 +70,10 @@
   },
   "peerDependencies": {
     "@capacitor-community/http": "^1.4.1",
-    "@capacitor/core": "^4.8.1",
-    "@capacitor/device": "^4.1.0",
-    "@capacitor/dialog": "^4.1.0",
-    "@capacitor/filesystem": "^4.1.5"
+    "@capacitor/core": "^5.1.1",
+    "@capacitor/device": "^5.0.5",
+    "@capacitor/dialog": "^5.0.5",
+    "@capacitor/filesystem": "^5.0.5"
   },
   "capacitor": {
     "android": {
