@@ -29,7 +29,7 @@
   "author": "MAPIACOMPANY",
   "license": "MIT",
   "devDependencies": {
-    "@capacitor-community/http": "^git+https://github.com/muhammadosmanali/capacitor-http.git",
+    "@capacitor-community/http": "^git+https://github.com/silent-conspiracy/capacitor-http.git",
     "@capacitor/cli": "^5.1.1",
     "@capacitor/device": "^5.0.5",
     "@capacitor/dialog": "^5.0.5",
@@ -69,7 +69,7 @@
     "code-push": "^4.0.2"
   },
   "peerDependencies": {
-    "@capacitor-community/http": "git+https://github.com/muhammadosmanali/capacitor-http.git",
+    "@capacitor-community/http": "git+https://github.com/silent-conspiracy/capacitor-http.git",
     "@capacitor/core": "^5.1.1",
     "@capacitor/device": "^5.0.5",
     "@capacitor/dialog": "^5.0.5",
